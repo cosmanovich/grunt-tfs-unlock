@@ -31,7 +31,7 @@
 		"test": "grunt"
 	},
 	"dependencies": {
-		"tfs-unlock": "^0.5.0"
+		"tfs-unlock": "git+https://github.com/cosmanovich/tfs-unlock.git"
 	},
 	"devDependencies": {
 		"grunt": "^1.0.1",
